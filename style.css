@@ -1,0 +1,190 @@
+body{
+    font-family: 'Lora', serif;
+    margin: 0;
+}
+.frist-section{
+    display: flex;
+    padding: px;
+    margin-left: 50px;
+    margin-bottom: 70px;
+}
+
+h3{
+    font-size: 20px;
+}
+#h1{
+    border-left: 5px solid cyan;
+    font-size: 50px;
+    color: gray;
+    bor
+}
+.mission-2022-color-change{
+    color: tomato;
+}
+p{
+    font-size: 23px;
+    font-weight: bold;
+}
+.link-google-button{
+    text-decoration: none;
+    font-size: 20px;
+    font-weight: bold;
+    padding: 10px 50px;
+    border-radius: 5px;
+    color: white;
+    background-image: linear-gradient(pink, blue);
+}
+.frist-section-div{
+    width: 50%;
+    padding: 20px;
+    margin: 30px;
+}
+.frist-section-div img{
+    width: 70%;
+}
+.second-section{
+    display: flex;
+    padding: 20px;
+    margin-bottom: 30px;
+}
+#second-section-h1{
+    text-align: center;
+    margin-bottom: 20px;
+    font-size: 40px;
+}
+#second-h1-color-change{
+    color: indigo;
+}
+.second-section-div p{
+    font-size: 15px;
+}
+.second-section-div-1{
+    background-color: wheat;
+}
+.second-section-div-1 p{
+ font-size: 15px;
+}
+.second-section-div-2 {
+    background-color: thistle;
+}
+.second-section-div-2 p{
+    font-size: 15px;
+}
+.second-section-div-3{
+    background-color: darkgrey;
+}
+.second-section-div-3 p{
+    font-size: 15px;
+}
+.image-size{
+    width: 90px;
+    height: 160px;
+}
+.thrid-image-size{
+    width: 80px;
+    height: 160px;
+}
+.second-section-div{
+   background-color: thistle;
+}
+#name-color-change{
+    color: tomato;
+}
+.link-youtube-button{
+    text-decoration: none;
+    font-size: 20px;
+    font-weight: bold;
+    padding: 10px 50px;
+    border-radius: 5px;
+    color: white;
+    background-image: linear-gradient(pink, blue);
+}
+#thrid-section{
+    background-image: url(images/shapes/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: left;
+    display: flex;
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-bottom: 70px;
+}
+.thrid-section-div{
+    width: 50%;
+    padding: 20px;
+
+}
+.thrid-section-pic{
+    width: 90%;
+    padding-left: 100px;
+}
+.thrid-section-pragraph{
+    width: 50%;
+    padding: 10px;
+    margin: 30px;
+}
+.forth-section{
+    background-image: url(images/shapes/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+    display: flex;
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-bottom: 70px;
+}
+#last-heading{
+    text-align: center;
+    font-size: 50px;
+}
+#heading{
+    font-size: 30px;
+}
+#name{
+    font-size: 40px;
+    text-align: center;
+}
+.button{
+    text-decoration: none;
+    font-size: 20px;
+    font-weight: bold;
+    padding: 10px 50px;
+    border-radius: 5px;
+    color: white;
+    background-image: linear-gradient(pink, blue);
+}
+.footer{
+    background-color: black;
+}
+#name{ 
+    color: white;
+}
+.color-change{
+    color: tomato;
+}
+#about{
+    color: tomato;
+}
+.last-section{
+    display: flex;
+    padding: px;
+    margin-left: 50px;
+    margin-right: 80px;
+    margin-bottom: 70px;
+}
+#last-div{
+    background-color: pink;
+}
+#last-button{
+    text-align: center;
+    margin-right: 200px;
+    font-size: 30px;
+    font-weight: bold;
+    padding: 10px 50px;
+    border-radius: 5px;
+    color: white;
+    background-image: linear-gradient(pink, blue);
+}
+.gmail{
+    text-align: center;
+    padding-bottom: 20px;
+    color: white;
+}
