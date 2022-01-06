@@ -2,7 +2,7 @@ body{
     font-family: 'Lora', serif;
     margin: 0;
 }
-.frist-section{
+.first-section{
     display: flex;
     padding: px;
     margin-left: 50px;
@@ -34,12 +34,12 @@ p{
     color: white;
     background-image: linear-gradient(pink, blue);
 }
-.frist-section-div{
+.first-section-div{
     width: 50%;
     padding: 20px;
     margin: 30px;
 }
-.frist-section-div img{
+.first-section-div img{
     width: 70%;
 }
 .second-section{
@@ -122,7 +122,7 @@ p{
     padding: 10px;
     margin: 30px;
 }
-.forth-section{
+.four-section{
     background-image: url(images/shapes/dream-bg.png);
     background-repeat: no-repeat;
     background-position: right;
@@ -151,15 +151,6 @@ p{
     color: white;
     background-image: linear-gradient(pink, blue);
 }
-.footer{
-    background-color: black;
-}
-#name{ 
-    color: white;
-}
-.color-change{
-    color: tomato;
-}
 #about{
     color: tomato;
 }
@@ -170,18 +161,29 @@ p{
     margin-right: 80px;
     margin-bottom: 70px;
 }
+
 #last-div{
-    background-color: pink;
+    background-image: linear-gradient(navy,red);
+    margin-right: 30px;
 }
-#last-button{
+#last-div{
     text-align: center;
-    margin-right: 200px;
+}
+#last-div h1{
     font-size: 30px;
-    font-weight: bold;
-    padding: 10px 50px;
-    border-radius: 5px;
     color: white;
-    background-image: linear-gradient(pink, blue);
+}
+#last-div h2{
+    color:white;
+}
+.footer{
+    background-color: black;
+}
+#name{ 
+    color: white;
+}
+.color-change{
+    color: tomato;
 }
 .gmail{
     text-align: center;
